@@ -90,6 +90,9 @@ export default Vue.extend({
             {
               title: "Adobe After Effects"
             },
+            {
+              title: "Adobe Photoshop"
+            }
           ],
         },
         {
@@ -148,7 +151,7 @@ export default Vue.extend({
 
       <div class="rounded-full mx-auto mb-4 md:mb-0">
         <SmartImage
-          src="/assets/images/memoji.png"
+          src="/assets/icons/memoji.png"
           class="rounded-full h-40 w-40"
         />
       </div>
