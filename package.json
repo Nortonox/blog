@@ -2,32 +2,32 @@
   "private": true,
   "license": "MIT",
   "version": "6.0.0",
-  "homepage": "https://eggsy.xyz",
-  "readme": "https://github.com/eggsy/website#readme",
+  "homepage": "https://nortonox.xyz",
+  "readme": "https://github.com/nortonox/blogreadme",
   "engines": {
     "node": ">=16.9"
   },
   "author": {
     "name": "Abdulbaki Dursun",
-    "email": "eggsydev@gmail.com",
-    "url": "https://eggsy.xyz"
+    "email": "nortonox@protonmail.com",
+    "url": "https://nortonox.xyz"
   },
   "bugs": {
-    "email": "eggsydev@gmail.com",
-    "url": "https://github.com/eggsy/website/issues"
+    "email": "nortonox@protonmail.com",
+    "url": "https://github.com/nortonox/blog/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/eggsy/website.git"
+    "url": "https://github.com/nortonox/blog.git"
   },
   "funding": [
     {
       "type": "individual",
-      "url": "https://eggsy.xyz/donate"
+      "url": "https://nortonox.xyz/donate"
     },
     {
       "type": "github",
-      "url": "https://github.com/sponsors/eggsy"
+      "url": "https://github.com/sponsors/nortonox"
     }
   ],
   "scripts": {

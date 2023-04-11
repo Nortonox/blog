@@ -38,7 +38,7 @@ const Head: NuxtOptionsHead = {
       rel: "search",
       type: "application/opensearchdescription+xml",
       title: "Nortonox's Blog",
-      href: "https://nortonox.netlify.app/opensearch.xml",
+      href: "https://nortonox.xyz/opensearch.xml",
     },
   ],
 }
