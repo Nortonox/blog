@@ -87,6 +87,10 @@ export default Vue.extend({
               title: "VS Code",
               iconPack: "IconBrand",
             },
+            {
+              title: "Adobe After Effects",
+              iconPack: "IconBrand",
+            },
           ],
         },
         {
