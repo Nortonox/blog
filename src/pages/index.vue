@@ -125,7 +125,7 @@ export default Vue.extend({
           <h1
             class="font-semibold text-center text-4xl md:(text-6xl text-left) text-black/90 leading-normal dark:text-white/90"
           >
-            11. Sınıf Bilişim Teknolojileri Öğrencisi
+            12. Sınıf Bilişim Teknolojileri Öğrencisi
           </h1>
 
           <div
