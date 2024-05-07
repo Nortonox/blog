@@ -39,7 +39,16 @@ export default Vue.extend({
             title: "Borusan Asım Kocabıyık Vocational and Technical Anatolian High School",
             url: "https://borusan.meb.k12.tr",
             position: "Information Technologies",
-            date: "2020-",
+            date: "2020-2024",
+          },
+        ],
+
+        work: [
+        {
+            title: "Webomax IT",
+            url: "https://webomax.net",
+            position: "Front-end Developer",
+            date: "2023-",
           },
         ],
 
@@ -125,7 +134,7 @@ export default Vue.extend({
           <h1
             class="font-semibold text-center text-4xl md:(text-6xl text-left) text-black/90 leading-normal dark:text-white/90"
           >
-            12. Sınıf Bilişim Teknolojileri Öğrencisi
+            Front-End Developer
           </h1>
 
           <div
