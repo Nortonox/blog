@@ -22,6 +22,7 @@ interface Experience {
 
 interface ExperienceObject {
   education: Experience[]
+  work: Experience[]
 }
 
 export default Vue.extend({
