@@ -22,7 +22,7 @@ interface Experience {
 
 interface ExperienceObject {
   education: Experience[]
-  work: Experience[]
+  jobs: Experience[]
 }
 
 export default Vue.extend({
@@ -42,6 +42,15 @@ export default Vue.extend({
             url: "https://borusan.meb.k12.tr",
             position: "Information Technologies",
             date: "2020-2024",
+          },
+        ],
+
+        jobs: [
+          {
+            title: "Webomax IT",
+            url: "https://webomax.net",
+            position: "Front-end Developer",
+            date: "2023-",
           },
         ],
       } as ExperienceObject,
@@ -69,14 +78,7 @@ export default Vue.extend({
           },
         ],
 
-        work: [
-          {
-            title: "Webomax IT",
-            url: "https://webomax.net",
-            position: "Front-end Developer",
-            date: "2023-",
-          },
-        ],
+
       },
       skills: [
         {
