@@ -54,7 +54,6 @@ export const generateImage = async ({
           justifyContent: "flex-end",
           backgroundColor: "#fff",
           borderRadius: 24,
-          backgroundImage: "url(https://i.imgur.com/9CddUS8.png)",
         },
         children: {
           type: "div",
