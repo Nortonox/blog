@@ -22,7 +22,6 @@ interface Experience {
 
 interface ExperienceObject {
   education: Experience[]
-  work: Experience[]
 }
 
 export default Vue.extend({
@@ -35,14 +34,6 @@ export default Vue.extend({
       },
       repos: [] as Repository[],
       experiences: {
-        work: [
-          {
-            title: "Webomax IT",
-            url: "https://webomax.net",
-            position: "Front-end Developer",
-            date: "2023-",
-          },
-        ],
 
         education: [
           {
@@ -74,6 +65,15 @@ export default Vue.extend({
             description:
               "Will update soon",
             href: "/blog",
+          },
+        ],
+
+        work: [
+          {
+            title: "Webomax IT",
+            url: "https://webomax.net",
+            position: "Front-end Developer",
+            date: "2023-",
           },
         ],
       },
